@@ -1,19 +1,17 @@
 class Solution {
-    public static String removeNonAlphaNumeric(String str){
-        return str.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
-    }
     public boolean isPalindrome(String s) {
-        String str = removeNonAlphaNumeric(s);
-        System.out.println(str);
-        int left = 0;
-        int right = str.length()-1;
-        while(left<=right){
-            if(str.charAt(left)!=str.charAt(right)){
-                return false;
-            }else{
+        int left = 0, right = s.length()-1;
+        while(left<right){
+            while(left<right && !Character.isLetterOrDigit(s.charAt(left))){
                 left++;
+            }
+            while(left<right && !Character.isLetterOrDigit(s.charAt(right))){
                 right--;
             }
+            if(Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))){            return false;                
+            }
+            left++;
+            right--;
         }
         return true;
     }
