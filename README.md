@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Kalpesh-Vala/leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Kalpesh-Vala/leetcode/tree/master/0392-is-subsequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Kalpesh-Vala/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kalpesh-Vala/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Kalpesh-Vala/leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Kalpesh-Vala/leetcode/tree/master/0392-is-subsequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Kalpesh-Vala/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kalpesh-Vala/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Enumeration
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kalpesh-Vala/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Kalpesh-Vala/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Kalpesh-Vala/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
