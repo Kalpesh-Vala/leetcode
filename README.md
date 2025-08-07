@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kalpesh-Vala/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kalpesh-Vala/leetcode/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kalpesh-Vala/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpesh-Vala/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/Kalpesh-Vala/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kalpesh-Vala/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Kalpesh-Vala/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Kalpesh-Vala/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpesh-Vala/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Kalpesh-Vala/leetcode/tree/master/0392-is-subsequence) |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kalpesh-Vala/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Kalpesh-Vala/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
