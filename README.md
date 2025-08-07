@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kalpesh-Vala/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpesh-Vala/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/Kalpesh-Vala/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Kalpesh-Vala/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Breadth-First Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Kalpesh-Vala/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpesh-Vala/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Kalpesh-Vala/leetcode/tree/master/0392-is-subsequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Kalpesh-Vala/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kalpesh-Vala/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpesh-Vala/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
 |  |
 | ------- |
