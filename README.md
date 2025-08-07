@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kalpesh-Vala/leetcode/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/Kalpesh-Vala/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpesh-Vala/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/Kalpesh-Vala/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kalpesh-Vala/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Kalpesh-Vala/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kalpesh-Vala/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Kalpesh-Vala/leetcode/tree/master/0392-is-subsequence) |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Kalpesh-Vala/leetcode/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Kalpesh-Vala/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
